@@ -1,5 +1,6 @@
+#Hello there :wave:
 
-<h1>About me :rocket:</h1>
+##About me :rocket:
 
 *Hello everyone and welcome to my profile*
 As an **IT engineering student**, i started my journey with learning **algorithms and data structure with C and OOP with java** then spent a long periode with full stack development using many frameworks for **frontend (react/angular) and backend (laravel/springboot/express/nest..)**
