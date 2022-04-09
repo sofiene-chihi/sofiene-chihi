@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sofiene Chihi</h1>
 <h3 align="center">IT engineering student and Backend developer @hatch</h3>
 
-- 🔭 I’m currently working on **Backend projects using nestjs**
+- 🔭 I’m currently working on **Backend and DevOps projects**
 
 - 🌱 I’m currently learning **DevOps technologies and Cloud architectures**
 
