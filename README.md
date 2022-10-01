@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sofiene Chihi</h1>
-<h3 align="center">IT engineering student and Backend developer @hatch</h3>
+<h3 align="center">IT engineering student and Backend developer</h3>
 
 - 🔭 I’m currently working on **Backend and DevOps projects**
 
