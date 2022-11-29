@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Backend and DevOps projects**
 
-- 🌱 I’m currently learning **DevOps technologies and Cloud architectures**
+- 🌱 I’m learning **System Design and Architectures**
 
-- 📫 How to reach me **sofienechihi@insat.u-carthage.tn**
+- 📫 How to reach me **chihisofiene2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
