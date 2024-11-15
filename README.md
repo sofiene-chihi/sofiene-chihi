@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sofiene Chihi</h1>
-<h3 align="center">DevOps & Backend Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <br>
 
-- 🔥 I'm well experienced in Backend development
+- 🔥 I'm well experienced in Frontend & Backend development
   
-- 🔭 I’m currently working as **DevOps / SRE enginner**
+- 🔭 I’m currently working as **Software enginner**
 
 - 🌱 I’m learning **System Design and Cloud Architectures**
 
