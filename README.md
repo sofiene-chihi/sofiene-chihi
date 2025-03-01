@@ -3,9 +3,9 @@
 
 <br>
 
-- 🔥 I'm well experienced in Frontend & Backend development
+- 🔥 I have an experience with Full stack development ()
   
-- 🔭 I’m currently working as **Software enginner**
+- 🔭 I’m currently working as **Software enginner** mainly using Golang
 
 - 🌱 I’m learning **System Design and Cloud Architectures**
 
